@@ -1,7 +1,7 @@
-# jarvis
-A Custom Voice Command Program
+# Jarvis
+## The Future of Personal Assistants 
 
-This Voice Command Program is a custom Voice Command program that interacts with the user through audio and speech.
+Jarvis is a custom Voice Command program that interacts with the user through audio and speech.
 
 The framework is based upon Python, getting support from local TTS programs (use either festival or espeak)
 
